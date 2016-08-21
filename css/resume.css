@@ -230,7 +230,7 @@ html {
 }
 
 .slide2 p,.slide3 p,.slide4 p{
-    top:1rem;
+    top:1.5rem;
     width: 100%;text-align: center;
     height: .76rem;
     line-height: .76rem;
@@ -317,8 +317,10 @@ html {
 }
 .slide4 div:nth-of-type(5){
     color: white;
-    /*top:6.80rem;*/
-    bottom: 4.2rem;
+    top:50%;
+    margin-top: 1rem;
+    /*bottom: 4.2rem;*/
+
     left: 25%;
     font-size: .34rem;
     font-weight: 500;
